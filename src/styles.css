@@ -1,0 +1,44 @@
+.style
+    body, input {
+        font-size: 22px;
+        font-family: Arial;
+}
+
+.h1 {
+    font-size: 33px;
+}
+
+h2 {
+    position: fixed;
+    margin-top: auto;
+
+}
+
+.barra  {
+    background-color:rgb(78, 60, 243);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+  }
+
+body {
+    background-color:rgb(195, 192, 225);
+}
+
+div {
+    position: relative;
+    top: 33;
+    left: 0;
+    right: 0;
+
+
+}
+
+p{
+    position: relative;
+    top: 80;
+    left: 40;
+    right: 40;
+}
